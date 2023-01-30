@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">FarenheitCelsius</string>
+    <string name="title">Fahrenheit/Celsius Converter</string>
+    <string name="input_text">Temperature</string>
 </resources>
