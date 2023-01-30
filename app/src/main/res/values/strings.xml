@@ -2,4 +2,6 @@
     <string name="app_name">FarenheitCelsius</string>
     <string name="title">Fahrenheit/Celsius Converter</string>
     <string name="input_text">Temperature</string>
+    <string name="radio_two">Celsius to Fahrenheit</string>
+    <string name="radio_one">Fahrenheit to Celsius</string>
 </resources>
